@@ -1,5 +1,5 @@
 title: Azariasz dev blog
 description: Pomysłem na ten blog jest uporządkowanie myśli, zapisanie tego się nauczyłem albo staram się zrozumieć.
-show_downloads: true
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-architect
