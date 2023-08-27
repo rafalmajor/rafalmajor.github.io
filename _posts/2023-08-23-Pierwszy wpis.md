@@ -1,6 +1,6 @@
 ---
 layout: post
-title: My First Blog Post
+title: Pierwszy wpis
 ---
 
 Zaczynam uporządkowaną naukę za pomocą bloga. 
